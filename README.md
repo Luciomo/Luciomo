@@ -1,0 +1,61 @@
+### Hello there. My name is Lucio Macedo and and I am passionate about technology. I always try to understand how the technologies used in our daily lives work.👋
+
+<!--
+**Luciomo/Luciomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+- 💻 I work in IT - hardware maintenance with a focus on computer networks
+- 💪 CCNA/CCNP in progress  
+- ✉️ If you want contact me, please send me a message : lucio.macedo@ymail.com
+
+<div>
+      Tecnologies that I´m learning
+       <p>
+           <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccna-200-301.html">
+              <img height="50em" src="https://cdn-icons-png.flaticon.com/128/882/882730.png?ga=GA1.2.1448574419.1649366423">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://git-scm.com/book/pt-br/v2">
+              <img height="50em" src="https://img.icons8.com/color/344/git.png"></img>
+           </a>
+           <a href="https://docs.github.com/pt">
+              <img height="50em" src="https://img.icons8.com/plasticine/344/github.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://distrowatch.com/">
+             <img height="50em" src="https://findicons.com/files/icons/1911/aqua_tux/128/tux.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://www.lpi.org/">
+             <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://python.org">
+             <img height="50em" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a> 
+       </p>
+   </div>
+
+##
+  
+<!--   
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+##
+
+<div>
+   <a href="https://www.linkedin.com/in/lucio-macedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://github.com/Luciomo"><img height="28em" src="https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat"></a>
+</div>
+
+   ![Snake Animation](https://github.com/alcancil/alcancil/blob/output/github-contribution-grid-snake.svg)
