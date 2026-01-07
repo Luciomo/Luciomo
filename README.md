@@ -23,7 +23,7 @@
 ---
 
 ## Projetos em destaque 🔭
-- [cursoJS](https://github.com/Luciomo/js-game) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
+- [JS-Game](https://github.com/Luciomo/js-game) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
 - [Repositórios de redes e automação](https://github.com/Luciomo) — Scripts e estudos relacionados a redes (CCNA/CCNP).
 
 **Principais projetos:**
