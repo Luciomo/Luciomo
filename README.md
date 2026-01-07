@@ -1,61 +1,71 @@
-### Hello there. My name is Lucio Macedo and and I am passionate about technology. I always try to understand how the technologies used in our daily lives work.👋
+# Olá! Eu sou o Lucio Macedo 👋
+**Apaixonado por tecnologia e redes de computadores.** Trabalho com manutenção de hardware e redes e estou sempre aprendendo novas tecnologias para evoluir profissionalmente.
 
-<!--
-**Luciomo/Luciomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi! I’m Lucio Macedo — passionate about technology and computer networks.** I work with hardware maintenance and networks and I’m constantly learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas 🔧
+- **Front-end:**
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Redes e Infra:** ![Cisco](https://img.shields.io/badge/Cisco-0077B5?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Ferramentas:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Linguagens:** Python, Bash
 
-- 💻 I work in IT - hardware maintenance with a focus on computer networks
-- 💪 CCNA/CCNP in progress  
-- ✉️ If you want contact me, please send me a message : lucio.macedo@ymail.com
+---
 
-<div>
-      Tecnologies that I´m learning
-       <p>
-           <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccna-200-301.html">
-              <img height="50em" src="https://cdn-icons-png.flaticon.com/128/882/882730.png?ga=GA1.2.1448574419.1649366423">&nbsp;&nbsp;&nbsp;&nbsp;</img>
-           </a>
-           <a href="https://git-scm.com/book/pt-br/v2">
-              <img height="50em" src="https://img.icons8.com/color/344/git.png"></img>
-           </a>
-           <a href="https://docs.github.com/pt">
-              <img height="50em" src="https://img.icons8.com/plasticine/344/github.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
-           </a>
-           <a href="https://distrowatch.com/">
-             <img height="50em" src="https://findicons.com/files/icons/1911/aqua_tux/128/tux.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
-           </a>
-           <a href="https://www.lpi.org/">
-             <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019">&nbsp;&nbsp;&nbsp;&nbsp;</img>
-           </a>
-           <a href="https://python.org">
-             <img height="50em" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
-           </a> 
-       </p>
-   </div>
+## Em andamento / Aprendendo 🚀
+- CCNA / CCNP (em andamento)
+- Práticas com HTML, CSS e JavaScript (DOM, manipulação, projetos simples)
 
-##
-  
-<!--   
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
 
-##
+## Projetos em destaque 🔭
+- [cursoJS](https://github.com/Luciomo/cursoJS) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
+- [Repositórios de redes e automação](https://github.com/Luciomo) — Scripts e estudos relacionados a redes (CCNA/CCNP).
 
-<div>
-   <a href="https://www.linkedin.com/in/lucio-macedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   <a href="https://github.com/Luciomo"><img height="28em" src="https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat"></a>
+**Principais projetos:**
+<div align="left">
+  <a href="https://github.com/Luciomo/cursoJS" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/cursoJS-HTML%20%7C%20CSS%20%7C%20JS-050?style=for-the-badge&logo=github" alt="cursoJS" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Luciomo/cursoJS/tree/main/Aula11" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Aula11-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Aula11" />
+  </a>
 </div>
 
-   ![Snake Animation](https://github.com/alcancil/alcancil/blob/output/github-contribution-grid-snake.svg)
+---
+
+## GitHub Stats 📊
+
+[![Lucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciomo&show_icons=true&theme=react&hide_border=true)](https://github.com/Luciomo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciomo&layout=compact&theme=react&hide_border=true)](https://github.com/Luciomo)
+
+---
+
+## Contato 📫
+- **Email:** lucio.macedo@ymail.com
+- **LinkedIn:** https://www.linkedin.com/in/lucio-macedo/
+- **GitHub:** https://github.com/Luciomo
+
+<div>
+  <a href="https://www.linkedin.com/in/lucio-macedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Luciomo"><img height="28em" src="https://komarev.com/ghpvc/?username=Luciomo&color=blue&style=flat"></a>
+</div>
+
+---
+
+![Contribuições](https://github.com/Luciomo/Luciomo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## Quer que eu faça mais? 💡
+- Posso incluir **badges dinâmicos** (GitHub stats), cards de projetos ou traduzir o README todo para Inglês.
+
+---
+
+*Atualizado: inclui HTML, CSS e JavaScript entre as tecnologias e corrigi pequenos erros de escrita.*
