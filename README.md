@@ -23,17 +23,17 @@
 ---
 
 ## Projetos em destaque 🔭
-- [cursoJS](https://github.com/Luciomo/cursoJS) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
+- [cursoJS](https://github.com/Luciomo/js-game) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
 - [Repositórios de redes e automação](https://github.com/Luciomo) — Scripts e estudos relacionados a redes (CCNA/CCNP).
 
 **Principais projetos:**
 <div align="left">
-  <a href="https://github.com/Luciomo/cursoJS" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/cursoJS-HTML%20%7C%20CSS%20%7C%20JS-050?style=for-the-badge&logo=github" alt="cursoJS" />
+  <a href="https://github.com/Luciomo/js-game" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Js-game-HTML%20%7C%20CSS%20%7C%20JS-050?style=for-the-badge&logo=github" alt="Js-game" />
   </a>
   &nbsp;
-  <a href="https://github.com/Luciomo/cursoJS/tree/main/Aula11" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Aula11-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Aula11" />
+  <a href="https://github.com/Luciomo/scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/scripts-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Scripts" />
   </a>
 </div>
 
