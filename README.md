@@ -19,6 +19,7 @@
 ## Em andamento / Aprendendo 🚀
 - CCNA / CCNP (em andamento)
 - Práticas com HTML, CSS e JavaScript (DOM, manipulação, projetos simples)
+- DevOps / Cloud / Automação (Linux, Bash, Python)
 
 ---
 
