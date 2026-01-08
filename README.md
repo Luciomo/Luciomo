@@ -61,12 +61,3 @@
 ---
 
 ![Contribuições](https://github.com/Luciomo/Luciomo/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## Quer que eu faça mais? 💡
-- Posso incluir **badges dinâmicos** (GitHub stats), cards de projetos ou traduzir o README todo para Inglês.
-
----
-
-*Atualizado: inclui HTML, CSS e JavaScript entre as tecnologias e corrigi pequenos erros de escrita.*
