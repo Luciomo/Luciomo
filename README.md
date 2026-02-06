@@ -40,8 +40,8 @@
     <img src="https://img.shields.io/badge/JS-Game-brightblue?style=for-the-badge" alt="Js-game" />
   </a>
   &nbsp;
-  <a href="https://github.com/Luciomo/scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/scripts-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Scripts" />
+  <a href="https://github.com/Luciomo/Exercicios-em-python" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Exercicios-em-Python-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Scripts" />
   </a>
 </div>
 
