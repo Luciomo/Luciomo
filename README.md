@@ -12,14 +12,18 @@
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Redes e Infra:** ![Cisco](https://img.shields.io/badge/Cisco-0077B5?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - **Ferramentas:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- **Linguagens:** Python, Bash
+- **Linguagens:**
+   - ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge) 
+   - Bash
+- **Inteligência Artificial** Gemini, Lovable, VSCode Copilot, Hexstrike-IA
 
 ---
 
 ## Em andamento / Aprendendo 🚀
-- CCNA / CCNP (em andamento)
+- Redes de Computadores especialista em Routing & Switching (STP, OSPF, BGP, QoS)
 - Práticas com HTML, CSS e JavaScript (DOM, manipulação, projetos simples)
-- DevOps / Cloud / Automação (Linux, Bash, Python)
+- DevOps / Cloud / Automação / Inteligência Artificial (Linux, Bash, Python)
+- Segurança da Informação / Cibersegurança (Hackers do Bem em progesso)
 
 ---
 
