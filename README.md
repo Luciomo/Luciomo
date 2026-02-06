@@ -41,7 +41,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Luciomo/Exercicios-em-python" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Exercicios-em-Python-Exerc%C3%ADcios-2b3137?style=for-the-badge" alt="Scripts" />
+    <img src="https://img.shields.io/badge/Exercicios-Python-brightblack?style=for-the-badge" alt="Scripts" />
   </a>
 </div>
 
