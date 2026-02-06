@@ -28,8 +28,10 @@
 ---
 
 ## Projetos em destaque 🔭
-- [JS-Game](https://github.com/Luciomo/js-game) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
+- [JS-Game](https://github.com/Luciomo/js-game) — Jogo de adivinhação e projetos em **HTML / CSS / JavaScript** (Aulas e exercícios).
 - [Filmes](https://github.com/Luciomo/Filmes) — Repositório com exercícios e projetos em **HTML / CSS / JavaScript** consumindo API.
+- [Coffe-companion](https://github.com/Luciomo/coffee-companion) - Sistema SaaS de registro de dose de café construido no Lovable **TypeScript / CSS**.
+- [ConnectionTest](https://github.com/Luciomo/ConnectionsTest) - Aplicação que verifica URL e Emails maliciosos usando **Pyhon / HTML / CSS**
 - [Repositórios de redes e automação](https://github.com/Luciomo) — Scripts e estudos relacionados a redes (CCNA/CCNP).
 
 **Principais projetos:**
