@@ -37,7 +37,7 @@
 **Principais projetos:**
 <div align="left">
   <a href="https://github.com/Luciomo/js-game" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Js-game-HTML%20%7C%20CSS%20%7C%20JS-050?style=for-the-badge&logo=github" alt="Js-game" />
+    <img src="https://img.shields.io/badge/JS-Game-brightblue?style=for-the-badge" alt="Js-game" />
   </a>
   &nbsp;
   <a href="https://github.com/Luciomo/scripts" style="text-decoration: none;">
