@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucio Macedo 👋
+# Olá Mundo! Eu sou o Lucio Macedo 👋
 **Apaixonado por tecnologia e redes de computadores, programação web e cibersegurança.** Trabalho com manutenção de hardware e redes estou sempre aprendendo novas tecnologias para evoluir profissionalmente.
 
 **Hi! I’m Lucio Macedo — passionate about technology and computer networks.** I work with hardware maintenance and networks and I’m constantly learning.
