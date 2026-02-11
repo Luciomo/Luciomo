@@ -59,6 +59,7 @@
 - **Email:** lucio.macedo@ymail.com
 - **LinkedIn:** https://www.linkedin.com/in/lucio-macedo/
 - **GitHub:** https://github.com/Luciomo
+- **Portifólio:** https://luciomo.github.io/my-portifolio-pro/
 
 <div>
   <a href="https://www.linkedin.com/in/lucio-macedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
