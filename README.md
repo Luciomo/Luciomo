@@ -22,7 +22,7 @@
 ## Em andamento / Aprendendo 🚀
 - Redes de Computadores especialista em Routing & Switching (STP, OSPF, BGP, QoS)
 - Práticas com HTML, CSS e JavaScript (DOM, manipulação, projetos simples)
-- DevOps / Cloud / Automação / Inteligência Artificial (Linux, Bash, Python)
+- DevOps / Cloud / Automação / Inteligência Artificial (Linux, Bash, Python, Ansible)
 - Segurança da Informação / Cibersegurança (Hackers do Bem em progesso)
 
 ---
