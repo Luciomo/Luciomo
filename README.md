@@ -15,6 +15,8 @@
 - **Linguagens:**
    - ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge) 
    - ![Bash](https://img.shields.io/badge/Bash-orange?style=for-the-badge)
+   - ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge).
+   - ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
 - **Inteligência Artificial** Gemini, Lovable, VSCode Copilot, Hexstrike-IA
 
 ---
